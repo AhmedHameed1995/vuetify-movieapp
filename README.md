@@ -1,6 +1,6 @@
-# freecom
+# Vue Movie App
 
-> Vue New Project
+> Integrated Vuetify
 
 ## Build Setup
 
